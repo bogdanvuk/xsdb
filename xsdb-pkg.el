@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "xsdb" "0.0.1" "Interface for Xilinx® System Debugger (XSDB) tool to allow compilation and debugging capabilities for Xilinx Zynq boards from Emacs via gdb and cmake" nill :authors '(("Bogdan Vukobratovic" . "bogdan.vukobratovic@gmail.com")) :maintainer '("Bogdan Vukobratovic" . "bogdan.vukobratovic@gmail.com") :url "http://github.com/bogdanvuk/xsdb")
